@@ -1,0 +1,2 @@
+Prefix plugins/ProportionPlot/example/
+Plugin ProportionPlot inputfile groupKD.rds outputfile proportion.pdf
